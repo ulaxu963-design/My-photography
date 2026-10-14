@@ -1,0 +1,272 @@
+{
+  "profile": {
+    "name": "Xiting Xu (Eula)",
+    "discipline": "Photography",
+    "bio": "",
+    "email": "",
+    "location": "",
+    "instagram": "",
+    "contactIntro": "",
+    "homeIntro": "Everyday Life in the UK"
+  },
+  "exhibitions": [],
+  "settings": {
+    "homeSpeed": 44,
+    "homeMaxScreensPerSecond": 2.5,
+    "homeAccelerationSeconds": 0.1,
+    "homeIdleMilliseconds": 100,
+    "homeDecelerationSeconds": 0.4,
+    "homeFullInputScreensPerSecond": 0.65,
+    "homeVelocityCurvePower": 1.75,
+    "homeEdgeZoneRatio": 0.35,
+    "homeEdgeMaxScreensPerSecond": 1,
+    "homeEdgeAccelerationSeconds": 0.5,
+    "reflectionOpacity": 0.15
+  },
+  "series": [
+    {
+      "id": "series-01",
+      "title": "White Cliffs",
+      "year": "2026",
+      "description": "",
+      "images": [
+        {
+          "id": "series-01-01",
+          "src": "assets/photographs/series-01/01.jpg",
+          "alt": "Visitors walk along white coastal cliffs on a grassy hillside, with blue-green sea in the distance.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-01-02",
+          "src": "assets/photographs/series-01/02.jpg",
+          "alt": "A visitor stands on a grassy hillside overlooking white coastal cliffs and the sea beneath cloudy skies.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-01-03",
+          "src": "assets/photographs/series-01/03.jpg",
+          "alt": "Two people sit on a grassy coastal slope facing blue-green water.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-01-04",
+          "src": "assets/photographs/series-01/04.jpg",
+          "alt": "Several visitors stand on a pebble beach with layers of waves stretching out before them.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        }
+      ],
+      "location": "White Cliffs",
+      "shortDescription": "A Souvenir from White Cliff",
+      "englishTitle": ""
+    },
+    {
+      "id": "series-02",
+      "title": "Old Streets of London",
+      "year": "2026",
+      "description": "",
+      "images": [
+        {
+          "id": "series-02-01",
+          "src": "assets/photographs/series-02/01.jpg",
+          "alt": "A yellow parking notice beside a red double-decker bus, seen from the side.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-02-02",
+          "src": "assets/photographs/series-02/02.jpg",
+          "alt": "A person wearing a red top stands among a crowd beside a bread stall at a market.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-02-03",
+          "src": "assets/photographs/series-02/03.jpg",
+          "alt": "People walk past a green shopfront on a sunlit street.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-02-04",
+          "src": "assets/photographs/series-02/04.jpg",
+          "alt": "A black and gold street clock and surrounding buildings beneath a blue sky.",
+          "width": 2276,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-02-05",
+          "src": "assets/photographs/series-02/05.jpg",
+          "alt": "People gather outside a corner cafe with a blue shopfront, with a pedestrian passing in the foreground.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-02-06",
+          "src": "assets/photographs/series-02/06.jpg",
+          "alt": "A person wearing a hat and a white jacket printed with a red heart walks along a street.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        }
+      ],
+      "location": "",
+      "shortDescription": " A leisurely afternoon strolling around a British market",
+      "englishTitle": ""
+    },
+    {
+      "id": "series-03",
+      "title": "V&A Museum",
+      "year": "2026",
+      "description": "",
+      "images": [
+        {
+          "id": "series-03-01",
+          "src": "assets/photographs/series-03/01.jpg",
+          "alt": "A white angel sculpture in a gallery looks upward with its hands clasped together.",
+          "width": 960,
+          "height": 1440,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-02",
+          "src": "assets/photographs/series-03/02.jpg",
+          "alt": "A stone relief featuring religious figures and decorative patterns in a gallery.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-03",
+          "src": "assets/photographs/series-03/03.jpg",
+          "alt": "Several white figure sculptures displayed in a gallery with green walls.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-04",
+          "src": "assets/photographs/series-03/04.jpg",
+          "alt": "A low-angle view of a white seated sculpture and architectural details above it in a gallery.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-05",
+          "src": "assets/photographs/series-03/05.jpg",
+          "alt": "A dark-colored sculpture of a child holding a bow in a gallery.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-06",
+          "src": "assets/photographs/series-03/06.jpg",
+          "alt": "A sculpture stands behind a railing in front of an arched window and chandelier in a dark interior.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-07",
+          "src": "assets/photographs/series-03/07.jpg",
+          "alt": "Colorful parrot jewelry and a decorative chain displayed on a handwritten page inside a glass case.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-08",
+          "src": "assets/photographs/series-03/08.jpg",
+          "alt": "Colorful gemstone rings arranged in a circle inside a dark display case.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-03-09",
+          "src": "assets/photographs/series-03/09.jpg",
+          "alt": "A child walks through an installation of densely hanging yellow threads.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        }
+      ],
+      "location": "V&A Museum",
+      "shortDescription": "Experience the history and culture of medieval Britain",
+      "englishTitle": ""
+    },
+    {
+      "id": "series-04",
+      "title": "Hyde Park",
+      "year": "2026",
+      "description": "",
+      "images": [
+        {
+          "id": "series-04-01",
+          "src": "assets/photographs/series-04/01.jpg",
+          "alt": "A white swan spreads its wings and lowers its head while standing on the water's edge.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-04-02",
+          "src": "assets/photographs/series-04/02.jpg",
+          "alt": "A gray squirrel lowers its head to forage on a park path scattered with fallen leaves.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-04-03",
+          "src": "assets/photographs/series-04/03.jpg",
+          "alt": "A squirrel rests beside the roots of a large tree in a leafy park.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        },
+        {
+          "id": "series-04-04",
+          "src": "assets/photographs/series-04/04.jpg",
+          "alt": "A green iron railing extends into the distance beside a park path covered with fallen leaves.",
+          "width": 1280,
+          "height": 1919,
+          "placeholder": false
+        },
+        {
+          "id": "series-04-05",
+          "src": "assets/photographs/series-04/05.jpg",
+          "alt": "A gray squirrel sits on the path behind a green iron railing.",
+          "width": 960,
+          "height": 1440,
+          "placeholder": false
+        },
+        {
+          "id": "series-04-06",
+          "src": "assets/photographs/series-04/06.jpg",
+          "alt": "A tall broken tree trunk points toward the sky, its exposed wood contrasting with gray and white clouds.",
+          "width": 1919,
+          "height": 1280,
+          "placeholder": false
+        }
+      ],
+      "location": "",
+      "shortDescription": "Experience the relaxed atmosphere of Hyde Park",
+      "englishTitle": ""
+    }
+  ]
+}
